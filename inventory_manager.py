@@ -119,7 +119,7 @@ def set_default_path():
 def main():
     clear_log()
     while True:
-        print("\n=== 7 Days to Die Inventory Manager ===")
+        print("\n=== Welcome to SilentSort ===")
         print("1. Manual Scan (Quick or Full)")
         print("2. Search for Keyword")
         print("3. View Logfile")
