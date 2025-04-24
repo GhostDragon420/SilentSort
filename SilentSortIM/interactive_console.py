@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import os
 import xml.etree.ElementTree as ET
 
@@ -97,7 +96,6 @@ def interactive_console():
 
 # Start the interactive console
 interactive_console()
-=======
 import os
 import xml.etree.ElementTree as ET
 
@@ -196,4 +194,3 @@ def interactive_console():
 
 # Start the interactive console
 interactive_console()
->>>>>>> 7bbe4a6ca3b562d53dd057982c2d239d10843f4d
