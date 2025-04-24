@@ -1,0 +1,11 @@
+<configs>
+  <append xpath="/blocks">
+    <block name="silentSortTriggerBlock" mod="SilentSortIM">
+      <property name="Class" value="Block"/>
+      <property name="Material" value="Mmetal"/>
+      <property name="Shape" value="Cube"/>
+      <property name="Texture" value="Textures/block_misc"/>
+      <property name="CustomTrigger" value="SilentSortStart"/>
+    </block>
+  </append>
+</configs>

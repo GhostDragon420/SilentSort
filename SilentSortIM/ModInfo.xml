@@ -1,0 +1,6 @@
+<ModInfo>
+  <Name value="SilentSortIM"/>
+  <Description value="Triggers the SilentSort script and allows debug toggle with 'ssimdebug' command."/>
+  <Author value="juggalosPsyco420"/>
+  <Version value="1.0.0"/>
+</ModInfo>
